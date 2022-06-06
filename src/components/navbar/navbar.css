@@ -28,7 +28,7 @@
 }
 .gpt3__navbar-links-container p,
 .gpt3__navbar-sign p,
-.gpt3__navbar-men_container p{
+.gpt3__navbar-menu_container p{
   color:#fff;
   font-family: var(--font-family);
   font-weight: 500;

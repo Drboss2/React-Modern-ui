@@ -39,7 +39,7 @@ function Navbar() {
          }
          {toggleMenu &&  (
             <div className='gpt3__navbar-menu_container scale-up-center'>
-              <div className='gpt2__navbar-container-links'>
+              <div className='gpt3__navbar-container-links'>
                 <Menu/>
                 <div className='gpt3__navbar-menu_container-links-sign'>
                   <p>Sign in </p>
